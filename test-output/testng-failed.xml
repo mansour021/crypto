@@ -5,7 +5,7 @@
     <classes>
       <class name="cryptoport.APIAutoTest">
         <methods>
-          <include name="testPostTokenDeployment"/>
+          <include name="testGetAccountDetails"/>
         </methods>
       </class> <!-- cryptoport.APIAutoTest -->
     </classes>
